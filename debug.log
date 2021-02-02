@@ -1,0 +1,4 @@
+[0201/214305.083:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0201/214305.085:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: The system cannot find the path specified. (0x3)
+[0202/202220.800:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0202/202220.801:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: The system cannot find the path specified. (0x3)
